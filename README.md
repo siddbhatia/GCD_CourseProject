@@ -7,11 +7,11 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 Details of the dataset are available [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).  
 
 Outputs of the project:  
-1) file "tidy.txt" with first data set  
-2) file "tidier.txt" with second (tidy) data set  
-3) file "README.md" with explanation on how the script work  
-4) file "CodeBook.md" which describes the variables, the data, and all transformations with raw data 
-5) file "run_analysis.R" which contains R script for performing the analysis.    
+1 file "tidy.txt" with first data set  
+2 file "tidier.txt" with second (tidy) data set  
+3 file "README.md" with explanation on how the script work  
+4 file "CodeBook.md" which describes the variables, the data, and all transformations with raw data   
+5 file "run_analysis.R" which contains R script for performing the analysis.    
 
 ##Steps of analysis  
 
